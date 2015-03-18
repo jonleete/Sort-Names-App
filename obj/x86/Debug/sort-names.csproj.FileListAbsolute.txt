@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2010\Projects\sort-names\sort-names\bin\Debug\sort-names.exe
+c:\users\jon\documents\visual studio 2010\Projects\sort-names\sort-names\bin\Debug\sort-names.pdb
+c:\users\jon\documents\visual studio 2010\Projects\sort-names\sort-names\obj\x86\Debug\sort-names.exe
+c:\users\jon\documents\visual studio 2010\Projects\sort-names\sort-names\obj\x86\Debug\sort-names.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\global-x-sortnames\obj\x86\Debug\sort-names.exe
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\global-x-sortnames\obj\x86\Debug\sort-names.pdb

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4f72ad82-3f5a-4a6f-8ed1-cc5fce60a832" name="Jon@JON-PC 2015-03-18 22:00:44" runUser="Jon-PC\Jon" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4634f8c1-6569-448c-9c57-b1fbac4675cd">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Jon_JON-PC 2015-03-18 22_00_44">
+      <DeploymentItem filename="c:\users\jon\documents\visual studio 2010\Projects\sort-names\sort-names\bin\Debug\sort-names.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-03-18T22:00:44.3023437+10:00" queuing="2015-03-18T22:00:44.3823438+10:00" start="2015-03-18T22:00:44.3823438+10:00" finish="2015-03-18T22:00:44.5923441+10:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestReadFile" storage="c:\users\jon\documents\visual studio 2010\projects\sort-names\unittest\bin\debug\unittest.dll" id="e7374a71-081e-aa5c-c9c4-fe3af2c1c9f2">
+      <Execution id="2dcd01ff-928a-415c-9c6b-5a99d8da52c5" />
+      <TestMethod codeBase="c:/users/jon/documents/visual studio 2010/Projects/sort-names/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.UnitTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestReadFile" />
+    </UnitTest>
+    <UnitTest name="TestNameSortC" storage="c:\users\jon\documents\visual studio 2010\projects\sort-names\unittest\bin\debug\unittest.dll" id="147fb284-f4a4-250f-4fdf-8563c3a3398b">
+      <Execution id="7e750a6d-aec0-4f01-bdae-d4988e404d69" />
+      <TestMethod codeBase="c:/users/jon/documents/visual studio 2010/Projects/sort-names/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.UnitTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNameSortC" />
+    </UnitTest>
+    <UnitTest name="TestNameSortB" storage="c:\users\jon\documents\visual studio 2010\projects\sort-names\unittest\bin\debug\unittest.dll" id="5c63bcfc-c996-cd43-9de5-b60cb2f8ae90">
+      <Execution id="afda2e9b-5f09-45bf-9a75-a52aab52401a" />
+      <TestMethod codeBase="c:/users/jon/documents/visual studio 2010/Projects/sort-names/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.UnitTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNameSortB" />
+    </UnitTest>
+    <UnitTest name="TestNameSortA" storage="c:\users\jon\documents\visual studio 2010\projects\sort-names\unittest\bin\debug\unittest.dll" id="94e3e4a8-cc0d-acd1-5808-4bb61dfb1178">
+      <Execution id="bcb4b3c9-047c-42e6-b08e-5ef938084a68" />
+      <TestMethod codeBase="c:/users/jon/documents/visual studio 2010/Projects/sort-names/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.UnitTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNameSortA" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="147fb284-f4a4-250f-4fdf-8563c3a3398b" executionId="7e750a6d-aec0-4f01-bdae-d4988e404d69" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5c63bcfc-c996-cd43-9de5-b60cb2f8ae90" executionId="afda2e9b-5f09-45bf-9a75-a52aab52401a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="94e3e4a8-cc0d-acd1-5808-4bb61dfb1178" executionId="bcb4b3c9-047c-42e6-b08e-5ef938084a68" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e7374a71-081e-aa5c-c9c4-fe3af2c1c9f2" executionId="2dcd01ff-928a-415c-9c6b-5a99d8da52c5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7e750a6d-aec0-4f01-bdae-d4988e404d69" testId="147fb284-f4a4-250f-4fdf-8563c3a3398b" testName="TestNameSortC" computerName="JON-PC" duration="00:00:00.0155744" startTime="2015-03-18T22:00:44.3823438+10:00" endTime="2015-03-18T22:00:44.5723441+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7e750a6d-aec0-4f01-bdae-d4988e404d69">
+    </UnitTestResult>
+    <UnitTestResult executionId="afda2e9b-5f09-45bf-9a75-a52aab52401a" testId="5c63bcfc-c996-cd43-9de5-b60cb2f8ae90" testName="TestNameSortB" computerName="JON-PC" duration="00:00:00.0002679" startTime="2015-03-18T22:00:44.5723441+10:00" endTime="2015-03-18T22:00:44.5723441+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="afda2e9b-5f09-45bf-9a75-a52aab52401a">
+    </UnitTestResult>
+    <UnitTestResult executionId="bcb4b3c9-047c-42e6-b08e-5ef938084a68" testId="94e3e4a8-cc0d-acd1-5808-4bb61dfb1178" testName="TestNameSortA" computerName="JON-PC" duration="00:00:00.0002417" startTime="2015-03-18T22:00:44.5723441+10:00" endTime="2015-03-18T22:00:44.5723441+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bcb4b3c9-047c-42e6-b08e-5ef938084a68">
+    </UnitTestResult>
+    <UnitTestResult executionId="2dcd01ff-928a-415c-9c6b-5a99d8da52c5" testId="e7374a71-081e-aa5c-c9c4-fe3af2c1c9f2" testName="TestReadFile" computerName="JON-PC" duration="00:00:00.0068162" startTime="2015-03-18T22:00:44.5723441+10:00" endTime="2015-03-18T22:00:44.5823441+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2dcd01ff-928a-415c-9c6b-5a99d8da52c5">
+      <Output>
+        <StdOut>Finished: created C:\Program Files (x86)\Microsoft Visual Studio 10-sorted.txt
+Finished: created C:\Program Files (x86)\Microsoft Visual Studio 10-sorted.txt
+Finished: created C:\Program Files (x86)\Microsoft Visual Studio 10-sorted.txt
+Cannot open C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE	hisIsAFakeFile.txt</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
